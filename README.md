@@ -109,7 +109,7 @@ A	continuación	se	explica	el	propósito	de	cada	bloque	del	script:
     Ha	completado	su	primera	conexión	a	la	API	de	OpenAI.	En	las	próximas	guías	aprenderá	a estructurar	salidas	en	JSON,	automatizar	tareas	docentes	y	crear	asistentes	personalizados
 
 
-## Guía 1 — Hello World AI en Jupyter Notebook en VS Code
+## Guía 2 — Hello World AI en Jupyter Notebook en VS Code
 
 Curso:	IA	en	el	Aula	— Nivel	Avanzado		
 
