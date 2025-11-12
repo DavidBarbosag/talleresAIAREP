@@ -220,6 +220,6 @@ Esta	guía	explica	cómo	crear	un	proyecto	de	inteligencia	artificial	desde	Visu
     print(f"--- temperature={t} ---")
     print(response.choices[0].message.content)
     ```
-## Guia 3 IntroAPIsAI_Notebook
+## Guia 3 IntroAPIsAI_Notebook y Guia 4 Guia4_Introduccion_LangChain_OpenAI
 
-Se encuentra en la raiz del reposiotorio en el archivo guia3Note.ipynb
+Se encuentra en la raiz del reposiotorio en el archivo guia3Note.ipynb y guia4.ipynb
